@@ -1,0 +1,38 @@
+namespace FirstProject
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            /* 
+            ------------------------------------------------------------------
+            Console.WriteLine("Arrays");
+
+            int[] luckyNumber = { 4,6,8,3,70};
+            luckyNumber[2] = 200;
+            string[] friends = new string[5];
+            friends[0] = "Carlos";
+            friends[1] = "John";
+            friends[2] = "Mike";
+            friends[3] = "Luke";
+            friends[4] = "Mario";
+            friends[5] = "Tom";
+
+            Console.WriteLine(luckyNumber);
+            Console.WriteLine(friends); */
+
+
+
+            /* 
+            -----------------------------------------------------------------
+            Console.WriteLine("Methods".ToUpper());
+            SayHi("Mike", 33);
+            SayHi("John", 59);
+            SayHi("Tom", 23);
+            SayHi("Joe", 78);
+        }
+        static void SayHi(string name, int age)
+        {
+            Console.WriteLine("Hello " + name + " you are " + age); 
+        }
+    } 
